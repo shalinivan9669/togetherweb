@@ -54,7 +54,7 @@ export function PricingSection() {
           </div>
 
           {/* Тариф "Одиночка" */}
-          <div className="bg-[#23232A] border border-[#2F3037] rounded-xl overflow-hidden">
+          <div className="bg-[#23232A] border border-[#616ed6] rounded-xl overflow-hidden">
             <div className="bg-[#2D2F36] p-8 border-b border-[#2F3037]">
               <h3 className="text-[#F9FAFB] mb-3">Тариф "Одиночка"</h3>
               <div className="flex items-baseline gap-2">
